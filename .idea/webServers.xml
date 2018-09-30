@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="37d39537-b9d5-4f1f-a7f1-e72c8f8d54bc" name="vatlieuxaydung.caikho.com" url="http://45.32.106.197">
+        <fileTransfer host="45.32.106.197" port="22" rootFolder="/home/vatlieuxaydung.caikho.com/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
