@@ -4,8 +4,8 @@
 	<!-- Content Header (Page header) -->
 	<section class="content-header">
 		<h1>
-			CÔNG TRÌNH
-			<small>quản lý danh sách công trình</small>
+			CÔNG TRÌNH 
+			<small>Quản lý danh sách công trình</small>
 		</h1>
 		<ol class="breadcrumb">
 			<li>
